@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojaqeiji.github.io/TgK/sitemap_index.txt
+Sitemap: https://ojaqeiji.github.io/ZFR/sitemap_index.txt
+Sitemap: https://ojaqeiji.github.io/ZGD/sitemap_index.txt
+Sitemap: https://ojaqeiji.github.io/ZjO/sitemap_index.txt
